@@ -1,4 +1,4 @@
-# My FalcoX Backup
+# My FalcoX Configuration
 This is my Flightone FalcoX backup repo
 
 # OSD Layout
