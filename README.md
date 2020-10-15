@@ -19,3 +19,9 @@ Yaw
 - rate  : 375
 - acro+ : 165
 - expo  : 38
+
+# CLI Command
+- `SET <command>` for input settings
+- `SAVE` to save settings
+- `DUMP` to see all current settings
+- `RESET RADIO WIZARD` to reset radio settings
