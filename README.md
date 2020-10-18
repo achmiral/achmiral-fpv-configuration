@@ -24,4 +24,5 @@ Yaw
 - `SET <command>` for input settings
 - `SAVE` to save settings
 - `DUMP` to see all current settings
+- `RESETCONFIG` to reset settings
 - `RESET RADIO WIZARD` to reset radio settings
