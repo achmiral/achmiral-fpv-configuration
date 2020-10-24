@@ -44,3 +44,10 @@ Yaw
 - `DUMP` to see all current settings
 - `RESETCONFIG` to reset settings
 - `RESET_WIZARD RADIO` to reset radio settings
+
+# How To Flash .flx File to Revolt OSD FC
+1. You have to first put the board into DFU (jumping the boot pads for exemple)
+2. auto update to latest
+3. once done and you're back the firmware page, manually flash the one you want
+
+Source [discord link](https://discord.com/channels/422512413552672769/525828485596446736/733407340707184815)
