@@ -1,9 +1,22 @@
 # ACHMIRAL FalcoX Configuration
 This is my Flightone FalcoX backup repo
 
+
+- [Quad Setup](#quad-setup)
+  * [5 inch Freestyle Setup 4s](#5-inch-freestyle-setup-4s)
+  * [5 inch Race Setup 4s](#5-inch-race-setup-4s)
+  * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
+- [OSD Layout](#osd-layout)
+- [Rates](#rates)
+  * [Current Stick Rates](#current-stick-rates)
+- [CLI Command](#cli-command)
+- [How To Flash .flx File to Revolt OSD FC](#how-to-flash-flx-file-to-revolt-osd-fc)
+
 # Quad Setup
 
-## 4s Setup
+Tuning : Blackbird Low D FS
+
+## 5 inch Freestyle Setup 4s
 | Component     | Brand                                     |
 | ------------- |-------------------------------------------| 
 | Frame         | Rajawali Bouraq 5 Inch                    | 
@@ -16,6 +29,35 @@ This is my Flightone FalcoX backup repo
 | VTX Antenna   | Foxeer Lollipop SMA                       |
 | Prop          | T-Motor T5143s                            |
 | Battery       | Tattu R-Line v3 1550mah 4s                |
+
+## 5 inch Race Setup 4s
+| Component     | Brand                                     |
+| ------------- |-------------------------------------------| 
+| Frame         | Rajawali Bourke 5 Inch                    | 
+| FC            | Flightone Revolt OSD Lite                 |
+| ESC           | Aikon RD32 45A 4in1 DShot1200             |
+| Motor         | DYS 2205 2300kv 4s                        |
+| VTX           | Rush Tank Ultimate Plus                   |
+| RX            | TBS Crossfire Nano RX                     |
+| FPV Cam       | Foxeer Predator Micro V3                  |
+| VTX Antenna   | Foxeer Lollipop SMA                       |
+| Prop          | HQProp Headsup R38                        |
+| Battery       | Tattu R-Line v3 1550mah 4s                |
+
+## [WIP] Micro 3 inch Setup
+| Component     | Brand                                     |
+| ------------- |-------------------------------------------| 
+| Frame         | HGLRC Sector 150mm 3 inch                 |
+| FC            | Flightone Milivolt OSD 20x20              |
+| ESC           | ?                                         |
+| Motor         | ?                                         |
+| VTX           | Rush Tank Ultimate Mini                   |
+| RX            | TBS Crossfire Nano RX                     |
+| FPV Cam       | ?                                         |
+| VTX Antenna   | ?                                         |
+| Prop          | ?                                         |
+| Battery       | Tattu R-Line v3 1550mah 4s                |
+
 # OSD Layout
 ![OSD Layout](image/osd_layout.png)
 
