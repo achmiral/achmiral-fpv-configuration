@@ -1,4 +1,4 @@
-# ACHMIRAL FalcoX Configuration
+# ACHMIRAL FPV Configuration
 This is my Flightone FalcoX backup repo
 
 
