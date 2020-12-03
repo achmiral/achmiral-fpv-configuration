@@ -83,7 +83,9 @@ Yaw
 - `SAVE` to save settings
 - `DUMP` to see all current settings
 - `RESETCONFIG` to reset settings
+- `RESET_WIZARD <option>` to reset wizard, `RADIO`, `VTX`, `MOTOR`, `TELEM` `FC`, `VIDEO`, `LEVEL` 
 - `RESET_WIZARD RADIO` to reset radio settings
+- `DFU` to enter dfu mode
 
 # How To Flash .flx File to Revolt OSD FC
 1. You have to first put the board into DFU (jumping the boot pads for exemple)
