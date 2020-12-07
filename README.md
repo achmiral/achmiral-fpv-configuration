@@ -1,16 +1,16 @@
 # ACHMIRAL FPV Configuration
 This is my Flightone FalcoX backup repo
 
-
 - [Quad Setup](#quad-setup)
   * [5 inch Freestyle Setup 4s](#5-inch-freestyle-setup-4s)
   * [5 inch Race Setup 4s](#5-inch-race-setup-4s)
-  * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
+  * [[WIP] Micro 3 inch Setup](#-wip--micro-3-inch-setup)
 - [OSD Layout](#osd-layout)
 - [Rates](#rates)
   * [Current Stick Rates](#current-stick-rates)
 - [CLI Command](#cli-command)
 - [How To Flash .flx File to Revolt OSD FC](#how-to-flash-flx-file-to-revolt-osd-fc)
+- [How to Upload Custom OSD Font (Not Tested Yet)](#how-to-upload-custom-osd-font--not-tested-yet-)
 
 # Quad Setup
 
@@ -92,4 +92,11 @@ Yaw
 2. auto update to latest
 3. once done and you're back the firmware page, manually flash the one you want
 4. Source [discord link](https://discord.com/channels/422512413552672769/525828485596446736/733407340707184815)
+
+# How to Upload Custom OSD Font (Not Tested Yet)
+source: [Wild Willy Comment on FL1 Discord](https://discord.com/channels/422512413552672769/422516423844298762/691052194916728833)
+1. Connect to Config
+2. Plug in the battery
+3. Go into OSD menu in the config
+4. Select load Fonts
 
