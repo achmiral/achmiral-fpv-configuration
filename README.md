@@ -10,7 +10,7 @@ This is my Flightone FalcoX backup repo
   * [Current Stick Rates](#current-stick-rates)
 - [CLI Command](#cli-command)
 - [How To Flash .flx File to Revolt OSD FC](#how-to-flash-flx-file-to-revolt-osd-fc)
-- [How to Upload Custom OSD Font (Not Tested Yet)](#how-to-upload-custom-osd-font--not-tested-yet)
+- [How to Upload Custom OSD Font (Not Tested Yet)](#how-to-upload-custom-osd-font-not-tested-yet)
 
 # Quad Setup
 
