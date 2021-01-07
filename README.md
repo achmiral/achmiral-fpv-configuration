@@ -4,7 +4,8 @@ This is my Flightone FalcoX backup repo
 - [Quad Setup](#quad-setup)
   * [5 inch Freestyle Setup 4s](#5-inch-freestyle-setup-4s)
   * [5 inch Race Setup 4s](#5-inch-race-setup-4s)
-  * [[WIP] Micro 3 inch Setup](#-wip--micro-3-inch-setup)
+  * [New 5 inch Race Setup 4s](#new-5-inch-race-setup-4s)
+  * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
 - [OSD Layout](#osd-layout)
 - [Rates](#rates)
   * [Current Stick Rates](#current-stick-rates)
@@ -44,6 +45,20 @@ Tuning : Blackbird Low D FS
 | Prop          | HQProp Headsup R38                        |
 | Battery       | Tattu R-Line v3 1550mah 4s                |
 
+## New 5 inch Race Setup 4s
+| Component     | Brand                                     |
+| ------------- |-------------------------------------------| 
+| Frame         | SniperX Lite                              | 
+| FC            | HGLRC Zeus F722 mini 20x20                |
+| ESC           | HGLRC Zeus 45A BL32 4in1 ESC              |
+| Motor         | DYS Sunfun 2207 2750kv 4s                 |
+| VTX           | Rush Tiny Tank 5.8GHz VTX                 |
+| RX            | TBS Crossfire Nano RX                     |
+| FPV Cam       | Runcam Racer 2 Nano                       |
+| VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
+| Prop          | HQProp Headsup R38                        |
+| Battery       | Tattu R-Line v3 1550mah 4s                |
+
 ## [WIP] Micro 3 inch Setup
 | Component     | Brand                                     |
 | ------------- |-------------------------------------------| 
@@ -62,7 +77,7 @@ Tuning : Blackbird Low D FS
 ![OSD Layout](image/osd_layout.png)
 
 # Rates
-## Current Stick Rates
+## Current Freestyle Stick Rates
 Roll
 - rate  : 375
 - expo  : 38
