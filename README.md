@@ -8,7 +8,7 @@ This is my Flightone FalcoX backup repo
   * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
 - [OSD Layout](#osd-layout)
 - [Rates](#rates)
-  * [Current Stick Rates](#current-stick-rates)
+  * [Current Stick Rates](#rates)
 - [CLI Command](#cli-command)
 - [How To Flash .flx File to Revolt OSD FC](#how-to-flash-flx-file-to-revolt-osd-fc)
 - [How to Upload Custom OSD Font (Not Tested Yet)](#how-to-upload-custom-osd-font-not-tested-yet)
@@ -94,11 +94,14 @@ Yaw
 - acro+ : 165
 
 # CLI Command
-- `SET <command>` for input settings
+- `VERSION` to get the current firmware version 
+- `GET <command>` to get the settings value of `<command>`, ex. `GET roll_p`
+- `SET <command>` for input settings, , ex. `SET roll_p=50`
 - `SAVE` to save settings
 - `DUMP` to see all current settings
+- `GET_SERIAL` to see the serial number of the FC
 - `RESETCONFIG` to reset settings
-- `RESET_WIZARD <option>` to reset wizard, `RADIO`, `VTX`, `MOTOR`, `TELEM` `FC`, `VIDEO`, `LEVEL` 
+- `RESET_WIZARD <option>` to reset wizard, `RADIO`, `VTX`, `MOTOR`, `TELEM` `FC`, `VIDEO`, `LEVEL`. ex. `RESET_WIZARD RADIO`.
 - `RESET_WIZARD RADIO` to reset radio settings
 - `DFU` to enter dfu mode
 
