@@ -64,14 +64,14 @@ Tuning : Blackbird Low D FS
 | ------------- |-------------------------------------------| 
 | Frame         | HGLRC Sector 150mm 3 inch                 |
 | FC            | Flightone Milivolt OSD 20x20              |
-| ESC           | ?                                         |
-| Motor         | ?                                         |
+| ESC           | Flightone Spark32 50A 4in1 20x20          |
+| Motor         | Flashhobby Arthur A1408 1408 2800KV       |
 | VTX           | Rush Tank Ultimate Mini                   |
 | RX            | TBS Crossfire Nano RX                     |
-| FPV Cam       | ?                                         |
+| FPV Cam       | Foxeer Predator Micro V3                  |
 | VTX Antenna   | ?                                         |
 | Prop          | ?                                         |
-| Battery       | Tattu R-Line v3 1550mah 4s                |
+| Battery       | ?                                         |
 
 # OSD Layout
 ![OSD Layout](image/osd_layout.png)
