@@ -57,7 +57,7 @@ Tuning : Blackbird Low D FS
 | FPV Cam       | Runcam Racer 2 Nano                       |
 | VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
 | Prop          | HQProp Headsup R38                        |
-| Battery       | ?                                         |
+| Battery       | ThunderX 1300mah 6s by TokoHeli           |
 
 ## [WIP] Micro 3 inch Setup
 | Component     | Brand                                     |
