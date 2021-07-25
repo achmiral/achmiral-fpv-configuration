@@ -5,6 +5,7 @@ This is my Flightone FalcoX backup repo
   * [5 inch Freestyle Setup 4s](#5-inch-freestyle-setup-4s)
   * [5 inch Race Setup 4s](#5-inch-race-setup-4s)
   * [New 5 inch Race Setup 6s](#new-5-inch-race-setup-6s)
+  * [Micro 3 inch Race Setup](#micro-3-inch-race-setup)
   * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
 - [OSD Layout](#osd-layout)
 - [Rates](#rates)
@@ -12,6 +13,7 @@ This is my Flightone FalcoX backup repo
 - [CLI Command](#cli-command)
 - [How To Flash .flx File to Revolt OSD FC](#how-to-flash-flx-file-to-revolt-osd-fc)
 - [How to Upload Custom OSD Font (Not Tested Yet)](#how-to-upload-custom-osd-font-not-tested-yet)
+- [How to Get in to FalcoX Emergency Bootloader](#how-to-get-in-to-falcox-emergency-bootloader)
 
 # Quad Setup
 
@@ -58,6 +60,19 @@ Tuning : Blackbird Low D FS
 | VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
 | Prop          | HQProp Headsup R38                        |
 | Battery       | ThunderX 1300mah 6s by TokoHeli           |
+
+## Micro 3 inch Race Setup
+| Component     | Brand                                     |
+| ------------- |-------------------------------------------| 
+| Frame         | Sniper MX 3 Inch                          |
+| FC & ESC      | HGLRC Zeus F722 AIO 25A                   |
+| Motor         | T Motor F1404 4600KV                      |
+| VTX           | Rush Tiny Tank                            |
+| RX            | TBS Crossfire Nano RX                     |
+| FPV Cam       | Caddx Baby Ratel                          |
+| VTX Antenna   | Foxeer Micro Lollipop                     |
+| Prop          | HQProp HeadsUp Tiny Prop 3 inch           |
+| Battery       | Tattu R Line 550mah 4s 95c V1.0           |
 
 ## [WIP] Micro 3 inch Setup
 | Component     | Brand                                     |
@@ -117,4 +132,11 @@ source: [Wild Willy Comment on FL1 Discord](https://discord.com/channels/4225124
 2. Plug in the battery
 3. Go into OSD menu in the config
 4. Select load Fonts
+
+# How to Get in to FalcoX Emergency Bootloader
+If there is ever any issues flashing or the fc not working right, you can ALWAYS get into the emergency bootloader this way as long as there was not an issue flashing during a DFU flash
+
+1. Make sure the FCs flashed FalcoX before
+2. Plug and unplug the usb (or the Lipo) 4 times REALLY fast. The status LED on the fc should blink super fast if it works
+3. Plug it into the falcox configurator
 
