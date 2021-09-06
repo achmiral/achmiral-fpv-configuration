@@ -5,6 +5,7 @@ This is my Flightone FalcoX backup repo
   * [5 inch Freestyle Setup 4s](#5-inch-freestyle-setup-4s)
   * [5 inch Race Setup 4s](#5-inch-race-setup-4s)
   * [New 5 inch Race Setup 6s](#new-5-inch-race-setup-6s)
+  * [New Five33 Switchback Pro Lite 5 inch Race Setup 6s](#new-five33-switchback-pro-lite-5-inch-race-setup-6s)
   * [Micro 3 inch Race Setup](#micro-3-inch-race-setup)
   * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
 - [OSD Layout](#osd-layout)
@@ -59,6 +60,20 @@ Tuning : Blackbird Low D FS
 | FPV Cam       | Runcam Racer 2 Nano                       |
 | VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
 | Prop          | HQProp Headsup R38                        |
+| Battery       | ThunderX 1300mah 6s by TokoHeli           |
+
+## New Five33 Switchback Pro Lite 5 inch Race Setup 6s
+| Component     | Brand                                     |
+| ------------- |-------------------------------------------| 
+| Frame         | Five33 Switchback Pro Lite Arm            | 
+| FC            | Foxeer F722 V2 Pro                        |
+| ESC           | Foxeer Reaper 45A 4in1 ESC                |
+| Motor         | T Motor Velox V2 1950kv                   |
+| VTX           | ?                                         |
+| RX            | ?                                         |
+| FPV Cam       | ?                                         |
+| VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
+| Prop          | HQProp Headsup R38 / MCK 51466            |
 | Battery       | ThunderX 1300mah 6s by TokoHeli           |
 
 ## Micro 3 inch Race Setup
