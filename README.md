@@ -15,6 +15,7 @@ This is my Flightone FalcoX backup repo
 - [How To Flash .flx File to Revolt OSD FC](#how-to-flash-flx-file-to-revolt-osd-fc)
 - [How to Upload Custom OSD Font (Not Tested Yet)](#how-to-upload-custom-osd-font-not-tested-yet)
 - [How to Get in to FalcoX Emergency Bootloader](#how-to-get-in-to-falcox-emergency-bootloader)
+- [FalcoX Warning](#falcox-warning)
 
 # Quad Setup
 
@@ -154,4 +155,7 @@ If there is ever any issues flashing or the fc not working right, you can ALWAYS
 1. Make sure the FCs flashed FalcoX before
 2. Plug and unplug the usb (or the Lipo) 4 times REALLY fast. The status LED on the fc should blink super fast if it works
 3. Plug it into the falcox configurator
+
+# FalcoX Warning
+1. "Throttle Down" means the quad disarmed and then tried to rearm but the throttle wasn't at zero
 
