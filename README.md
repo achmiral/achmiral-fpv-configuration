@@ -70,9 +70,9 @@ Tuning : Blackbird Low D FS
 | FC            | Foxeer F722 V2 Pro                        |
 | ESC           | Foxeer Reaper 45A 4in1 ESC                |
 | Motor         | T Motor Velox V2 1950kv                   |
-| VTX           | ?                                         |
-| RX            | ?                                         |
-| FPV Cam       | ?                                         |
+| VTX           | Rush Tiny Tank VTX                        |
+| RX            | Happymodel EP2 RX 2.4 Ghz                 |
+| FPV Cam       | Foxeer Predator Nano V5                   |
 | VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
 | Prop          | HQProp Headsup R38 / MCK 51466            |
 | Battery       | ThunderX 1300mah 6s by TokoHeli           |
@@ -84,10 +84,10 @@ Tuning : Blackbird Low D FS
 | FC & ESC      | HGLRC Zeus F722 AIO 25A                   |
 | Motor         | T Motor F1404 4600KV                      |
 | VTX           | Rush Tiny Tank                            |
-| RX            | TBS Crossfire Nano RX                     |
+| RX            | Happymodel EP2 RX 2.4Ghz                  |
 | FPV Cam       | Caddx Baby Ratel                          |
 | VTX Antenna   | Foxeer Micro Lollipop                     |
-| Prop          | HQProp HeadsUp Tiny Prop 3 inch           |
+| Prop          | Gemfan Hurricane 3016                     |
 | Battery       | Tattu R Line 550mah 4s 95c V1.0           |
 
 ## [WIP] Micro 3 inch Setup
@@ -99,8 +99,8 @@ Tuning : Blackbird Low D FS
 | Motor         | Flashhobby Arthur A1408 1408 2800KV       |
 | VTX           | Rush Tank Ultimate Mini                   |
 | RX            | TBS Crossfire Nano RX                     |
-| FPV Cam       | Foxeer Predator Micro V3                  |
-| VTX Antenna   | ?                                         |
+| FPV Cam       | Caddx Ratel V1 2.1mm                      |
+| VTX Antenna   | Foxeer Lollipop V3                        |
 | Prop          | ?                                         |
 | Battery       | ?                                         |
 
