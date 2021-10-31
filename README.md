@@ -49,7 +49,7 @@ Tuning : Blackbird Low D FS
 | Prop          | HQProp Headsup R38                        |
 | Battery       | Tattu R-Line v3 1550mah 4s                |
 
-## New 5 inch Race Setup 6s
+## Sniper Light 5 inch Race Setup 6s
 | Component     | Brand                                     |
 | ------------- |-------------------------------------------| 
 | Frame         | SniperX Lite                              | 
@@ -70,7 +70,7 @@ Tuning : Blackbird Low D FS
 | FC            | Foxeer F722 V2 Pro                        |
 | ESC           | Foxeer Reaper 45A 4in1 ESC                |
 | Motor         | T Motor Velox V2 1950kv                   |
-| VTX           | Rush Tiny Tank VTX                        |
+| VTX           | Foxeer Reaper Nano 5.8G 40CH 350mW VTx    |
 | RX            | Happymodel EP2 RX 2.4 Ghz                 |
 | FPV Cam       | Foxeer Predator Nano V5                   |
 | VTX Antenna   | Foxeer 5.8G Micro Lollipop UFL            |
