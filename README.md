@@ -2,9 +2,10 @@
 This is my Flightone FalcoX backup repo
 
 - [Quad Setup](#quad-setup)
+  * [Apex - 5 inch Freestyle Setup 6s](#apex---5-inch-freestyle-setup-6s)
   * [5 inch Freestyle Setup 4s](#5-inch-freestyle-setup-4s)
   * [5 inch Race Setup 4s](#5-inch-race-setup-4s)
-  * [New 5 inch Race Setup 6s](#new-5-inch-race-setup-6s)
+  * [Sniper Light 5 inch Race Setup 6s](#sniper-light-5-inch-race-setup-6s)
   * [New Five33 Switchback Pro Lite 5 inch Race Setup 6s](#new-five33-switchback-pro-lite-5-inch-race-setup-6s)
   * [Micro 3 inch Race Setup](#micro-3-inch-race-setup)
   * [[WIP] Micro 3 inch Setup](#wip-micro-3-inch-setup)
@@ -20,6 +21,21 @@ This is my Flightone FalcoX backup repo
 # Quad Setup
 
 Tuning : Blackbird Low D FS
+
+## Apex - 5 inch Freestyle Setup 6s
+
+| Component     | Brand                                             |
+| ------------- |---------------------------------------------------| 
+| Frame         | ImpulseRC Apex 5 inch                             | 
+| FC            | Flightone Revolt OSD Lite                         |
+| ESC           | Hobbywing  XRotor Micro 60A 4in1 DShot1200        |
+| Motor         | Five33 1960kv                                     |
+| VTX           | Rush Tank Ultimate Mini 800mW                     |
+| RX            | TBS Crossfire Nano RX                             |
+| FPV Cam       | Foxeer Mini Predator 5                            |
+| VTX Antenna   | RushFPV Cherry Antenna                            |
+| Prop          | Gemfan Sbang 4934-3                               |
+| Battery       | DOGCOM 6S 1380MAH 150C LIPO BATTERY - MCK EDITION |
 
 ## 5 inch Freestyle Setup 4s
 | Component     | Brand                                     |
